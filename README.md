@@ -1,92 +1,81 @@
-<h1 align="center">Hi 👋, I'm Sujal Maharjan</h1>
-<h3 align="center">🚀 BCA Student | Creative Tech Enthusiast</h3>
+<h1 align="center">🙏 Namaste, I'm Sujal Maharjan</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend+Learner;Python+%7C+Django;Always+Learning+New+Things+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=24&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=BCA+Student+at+Pascal+College;Creative+Tech+Enthusiast;Python+%2B+Django+Developer" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-svg-download-png-3576478.png">
+### 🚀 Quick Summary
+I am a **BCA Student** and a creative developer focused on building functional, aesthetically pleasing web applications. I bridge the gap between technical backend logic and creative frontend design.
 
-## 🚀 About Me
-
-- 🎓 BCA Student passionate about technology  
+- BCA Student passionate about technology  
 - 💻 Interested in both **Frontend & Backend Development**
-- 🌱 Currently learning **Django**
-- 🎨 Artist + Developer who loves creativity
-- 📹 Exploring AI content creation & Self growth
+- 🌱 **Learning:** Python, Django
+- 🎨 **Creative Side:** Artist + Developer who loves creativity
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-<a href="https://facebook.com/obakanawa">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/not.sus.__">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sujal-maharjan-089390215">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ssuzal077@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)|
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 
-# 💻 Tech Stack
+### 📂 Featured Projects
 
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=django,bootstrap" />
-</p>
-
-### 🛢️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 GeoGuard Crisis Coordinator</h4>
+      <p>A social coordination system for crisis management using real-time incident reporting and DBSCAN clustering logic.</p>
+      <code>Python</code> <code>Django</code> <code>Postgres</code>
+    </td>
+    <tr>
+    <td width="50%" valign="top">
+      <h4>💪 Gym Management System</h4>
+      <p>Full CRUD application featuring secure Login/Signup with robust frontend and backend form validation.</p>
+      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+    </td>
+    </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h4>🦷 Dental Portfolio</h4>
+      <p>A professional service portfolio designed with a cinematic, moody aesthetic for dental professionals.</p>
+      <code>Python</code> <code>Django</code> <code>Postgres</code>
+    </td>
+    </tr>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+### 📊 Activity & Stats
 
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=notsuz&show_icons=true&theme=tokyonight" alt= this image is not/> -->
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=notsuz&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsuz&layout=compact&theme=tokyonight" />
-</p> -->
-
----
-
-
-
-# ✨ Quote of the Day
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=notsuz&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsuz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+<p align="center">
+### 🌐 Connect with me:
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://linkedin.com/in/sujal-maharjan-089390215)
+[ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:ssuzal077@gmail.com)
+[ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/not.sus.__)
+</p>
 
-<h3 align="center">🔥 “Code. Create. Improve. Repeat.” 🔥</h3>
+
+---
+### 📑 Quote for the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<h4 align="center">🔥 “Code. Create. Improve. Repeat.” 🔥</h4>
