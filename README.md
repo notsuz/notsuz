@@ -63,12 +63,12 @@ I am a **BCA Student** and a creative developer focused on building functional, 
 </p>
 
 ---
-<p align="center">
+
 ### 🌐 Connect with me:
+
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://linkedin.com/in/sujal-maharjan-089390215)
 [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:ssuzal077@gmail.com)
 [ ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/not.sus.__)
-</p>
 
 
 ---
