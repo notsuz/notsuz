@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sujal Maharjan</h1>
-<h3 align="center">🚀 Full Stack Developer | BCA Student | Creative Tech Enthusiast</h3>
+<h3 align="center">🚀 BCA Student | Creative Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%2B+Backend+Learner;React+%7C+Django+%7C+PHP;Always+Learning+New+Things+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend+Learner;Python+%7C+Django;Always+Learning+New+Things+🔥" alt="Typing SVG" />
 </p>
 
 ---
