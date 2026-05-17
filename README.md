@@ -59,7 +59,7 @@ I am a **BCA Student** and a creative developer focused on building functional, 
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=notsuz&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsuz&layout=compact&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 ---
