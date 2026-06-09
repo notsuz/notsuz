@@ -11,7 +11,7 @@ I am a **BCA Student** and a creative developer focused on building functional, 
 
 - BCA Student passionate about technology  
 - 💻 Interested in both **Frontend & Backend Development**
-- 🌱 **Learning:** Python, Django
+- 🌱 **Learning:** FastAPI, DRF RestAPI
 - 🎨 **Creative Side:** Artist + Developer who loves creativity
 
 ---
@@ -48,6 +48,13 @@ I am a **BCA Student** and a creative developer focused on building functional, 
       <h4>🦷 Dental Portfolio</h4>
       <p>A professional service portfolio designed with a cinematic, moody aesthetic for dental professionals.</p>
       <code>Python</code> <code>Django</code> <code>Postgres</code>
+    </td>
+    </tr>
+      <tr>
+    <td width="50%" valign="top">
+      <h4>Ecommerce Website</h4>
+      <p>A professional working Ecommerce Website with payment integration order management designed with a python django</p>
+      <code>Python</code> <code>Django</code> <code>Sqlite3</code>
     </td>
     </tr>
   </tr>
