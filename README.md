@@ -13,6 +13,7 @@ I am a **BCA Student** and a creative developer focused on building functional, 
 - 💻 Interested in both **Frontend & Backend Development**
 - 🌱 **Learning:** DRF RestAPI
 - 🎨 **Creative Side:** Artist + Developer who loves creativity
+- 🚧 **Working on:** Portfolio for graphics designer
 
 ---
 
