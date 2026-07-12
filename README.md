@@ -4,11 +4,11 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=24&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=BCA+Student+at+Pascal+College;Creative+Tech+Enthusiast;Python+%2B+Django+Developer" />
 </p>
 
----
+--- -->
 
 
 
