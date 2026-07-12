@@ -1,10 +1,16 @@
-<h1 align="center">🙏 Namaste, I'm Sujal Maharjan</h1> 
+<div align="center">
+  <img src="./hero.svg" alt="Sujal's GitHub Hero Banner" width="100%" />
+</div>
+
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=24&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=BCA+Student+at+Pascal+College;Creative+Tech+Enthusiast;Python+%2B+Django+Developer" />
 </p>
 
 ---
+
+
 
 ### 🚀 Quick Summary
 I am a **BCA Student** and a creative developer focused on building functional, aesthetically pleasing web applications. I bridge the gap between technical backend logic and creative frontend design.
