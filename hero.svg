@@ -183,9 +183,9 @@
 
     <!-- Animated Typing Titles -->
     <text x="510" y="245" font-family="'Fira Code', Consolas, monospace" font-weight="700" font-size="24" fill="#58a6ff" clip-path="url(#clip1)">Python Django Developer</text>
-    <text x="510" y="245" font-family="'Fira Code', Consolas, monospace" font-weight="700" font-size="24" fill="#58a6ff" clip-path="url(#clip2)">AI Enthusiast</text>
+    
     <text x="510" y="245" font-family="'Fira Code', Consolas, monospace" font-weight="700" font-size="24" fill="#58a6ff" clip-path="url(#clip2)">Student</text>
-    <text x="510" y="245" font-family="'Fira Code', Consolas, monospace" font-weight="700" font-size="24" fill="#58a6ff" clip-path="url(#clip2)">Content Creator</text>
+
     <rect x="510" y="222" width="12" height="28" fill="#58a6ff" class="cursor" />
 
     <!-- Personal Details (Sequential Reveal) -->
